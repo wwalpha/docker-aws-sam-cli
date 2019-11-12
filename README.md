@@ -5,7 +5,7 @@
 
 - [`latest` (*latest/Dockerfile*)](./Dockerfile)
 
-## What is AWS SAM Local?
+## What is AWS SAM?
 
 [Amazon AWS SAM](https://github.com/awslabs/aws-sam-cli/) is a tool for local development and testing of Serverless applications. It can be used to test functions locally, start a local API Gateway from a SAM template, validate a SAM template, and generate sample payloads for various event sources.
 
