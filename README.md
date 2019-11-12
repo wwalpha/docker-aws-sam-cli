@@ -16,7 +16,7 @@ $ docker run -it --rm \
 	-v /var/run/docker.sock:/var/run/docker.sock \
 	-v "$(PWD)":/var/opt \
 	-p "3000:3000" \
-	cnadiminti/aws-sam-local
+	aws-sam-cli
 ```
 
 This will add your current directory as a volume to the container and publish host port to container port.
