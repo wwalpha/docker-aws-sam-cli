@@ -1,5 +1,5 @@
 
-# docker-aws-sam-local
+# docker-aws-sam-cli
 
 ## Supported tags and respective `Dockerfile` links
 
